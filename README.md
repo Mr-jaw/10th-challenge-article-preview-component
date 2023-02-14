@@ -16,10 +16,10 @@ This is a solution to the [Article preview component challenge on Frontend Mento
 
 ### Screenshot
 
-![](./screenshot/desktop.png.jpg)
-![](./screenshot/desktopactive.png.jpg)
-![](./screenshot/mobile.png.jpg)
-![](./screenshot/mobileactive.png.jpg)
+![](./screenshot/desktop.png)
+![](./screenshot/desktopactive.png)
+![](./screenshot/mobile.png)
+![](./screenshot/mobileactive.png)
 
 
 
