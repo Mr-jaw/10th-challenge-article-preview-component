@@ -25,8 +25,8 @@ This is a solution to the [Article preview component challenge on Frontend Mento
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution](https://www.frontendmentor.io/solutions/responsive-article-preview-component-using-flex-obfrWU_sCQ)
+- Live Site URL: [Live site](https://lovely-parfait-4ae9fc.netlify.app/)
 
 ## My process
 
