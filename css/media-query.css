@@ -80,10 +80,10 @@
 
 @media (max-width: 21.25em) {
   .author .share-img-btn {
-    translate: 0 1.4em;
+    translate: 1.4em;
   }
   .author .share-img-btn.active {
-    translate: 0 1.4em;
+    translate: 1.4em;
   }
 }
 
